@@ -5,12 +5,12 @@ ScreenSavers Hack插件功能太多，个人只是需要替换了系统的屏保
 此插件脚本取自于https://zhuanlan.zhihu.com/p/24951009229， 公众号:mobibooks小书馆
 
 用AI折腾了一下，写了个插件方便自己使用
-
+https://github.com/jjss520/custom_screensaver/releases/tag/1.0
 脚本核心就是软链接/usr/share/blanket/screensaver到kindle目录,没有什么技术含量
 
 使用方法：
 
-[点击下载]([超链接](https://github.com/jjss520/custom_screensaver/releases/tag/1.0) "点击下载")
+[点击下载](https://github.com/jjss520/custom_screensaver/releases/tag/1.0)
 
 下载插件压缩包，解压得到 custom_screensaver 文件夹，将其拷贝到 Kindle 根目录下的 extensions 文件夹中。
 
@@ -23,6 +23,7 @@ kindle根目录，创建文件夹screensaver（脚本也会自动创建），放
 PS：广告机不生效的，可以去上面的链接有去广告脚本，个人不是广告机，懒的把去广告加到插件了，自取吧
 
 ![image](预览.jpg)
+
 
 
 
