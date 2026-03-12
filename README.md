@@ -10,6 +10,8 @@ ScreenSavers Hack插件功能太多，个人只是需要替换了系统的屏保
 
 使用方法：
 
+下载插件压缩包，解压得到 custom_screensaver 文件夹，将其拷贝到 Kindle 根目录下的 extensions 文件夹中。
+
 kindle根目录，创建文件夹screensaver（脚本也会自动创建），放入适合自己机器分辨率的图片
 
 图片命名规则必须为bg_ssxx.png，（bg_ss00.png，bg_ss01.png，bg_ss02.png....）
@@ -19,4 +21,5 @@ kindle根目录，创建文件夹screensaver（脚本也会自动创建），放
 PS：广告机不生效的，可以去上面的链接有去广告脚本，个人不是广告机，懒的把去广告加到插件了，自取吧
 
 ![image](预览.jpg)
+
 
