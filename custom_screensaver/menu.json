@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "name": "_自定义屏保设置",
+      "priority": 1,
+      "items": [
+        {
+          "name": "已启用",
+          "if": "\"/mnt/us/extensions/custom_screensaver/bin/status.flag\" -f",
+          "action": "true",
+          "refresh": true
+        },
+        {
+          "name": "未启用",
+          "if": "\"/mnt/us/extensions/custom_screensaver/bin/status.flag\" -f!",
+          "action": "true",
+          "refresh": true
+        },
+        {
+          "name": "启用自定义屏保",
+          "action": "./bin/install.sh",
+          "refresh": true
+        },
+        {
+          "name": "恢复系统默认屏保",
+          "action": "./bin/restore.sh",
+          "refresh": true
+        }
+      ]
+    }
+  ]
+}
